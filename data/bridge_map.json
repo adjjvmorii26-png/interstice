@@ -1,0 +1,2353 @@
+{
+  "name": "The Interstice",
+  "version": "1.0.0",
+  "repos": [
+    {
+      "name": "ixpansion",
+      "description": "constellation repo: ixpansion",
+      "themes": [
+        "agent",
+        "consciousness",
+        "dream",
+        "entropy",
+        "evolution",
+        "resonance",
+        "wave"
+      ]
+    },
+    {
+      "name": "nexus-observatory",
+      "description": "constellation repo: nexus-observatory",
+      "themes": [
+        "interop",
+        "observatory",
+        "paradox",
+        "recursive",
+        "resonance",
+        "temporal"
+      ]
+    },
+    {
+      "name": "solid-organism",
+      "description": "constellation repo: solid-organism",
+      "themes": [
+        "fractal",
+        "lattice",
+        "organism",
+        "phoenix",
+        "pulse"
+      ]
+    },
+    {
+      "name": "omega-fractal-engine",
+      "description": "constellation repo: omega-fractal-engine",
+      "themes": [
+        "archives",
+        "chaos",
+        "fractal",
+        "nucleus",
+        "ritual"
+      ]
+    },
+    {
+      "name": "probability-engine",
+      "description": "constellation repo: probability-engine",
+      "themes": [
+        "chance",
+        "collapse",
+        "probability",
+        "quantum"
+      ]
+    },
+    {
+      "name": "quietus-array",
+      "description": "constellation repo: quietus-array",
+      "themes": [
+        "absence",
+        "calm",
+        "rest",
+        "silence"
+      ]
+    },
+    {
+      "name": "multiself-engine",
+      "description": "constellation repo: multiself-engine",
+      "themes": [
+        "branch",
+        "divergence",
+        "identity",
+        "self"
+      ]
+    },
+    {
+      "name": "parallax-engine",
+      "description": "constellation repo: parallax-engine",
+      "themes": [
+        "depth",
+        "distortion",
+        "perspective",
+        "veil"
+      ]
+    },
+    {
+      "name": "attention-labyrinth",
+      "description": "constellation repo: attention-labyrinth",
+      "themes": [
+        "attention",
+        "concentration",
+        "drift",
+        "focus"
+      ]
+    },
+    {
+      "name": "glitch-cathedral",
+      "description": "constellation repo: glitch-cathedral",
+      "themes": [
+        "chaos",
+        "corruption",
+        "glitch",
+        "noise",
+        "repair"
+      ]
+    },
+    {
+      "name": "phaseshift-manifold",
+      "description": "constellation repo: phaseshift-manifold",
+      "themes": [
+        "matter",
+        "phase",
+        "plasma",
+        "state"
+      ]
+    },
+    {
+      "name": "geometric-anthology",
+      "description": "constellation repo: geometric-anthology",
+      "themes": [
+        "form",
+        "geometry",
+        "shape",
+        "tessellation"
+      ]
+    },
+    {
+      "name": "semiotic-engine",
+      "description": "constellation repo: semiotic-engine",
+      "themes": [
+        "glyph",
+        "meaning",
+        "metaphor",
+        "sign"
+      ]
+    },
+    {
+      "name": "ontoforge-singularity",
+      "description": "constellation repo: ontoforge-singularity",
+      "themes": [
+        "being",
+        "essence",
+        "ontology",
+        "reality"
+      ]
+    },
+    {
+      "name": "neuroglyph-forge",
+      "description": "constellation repo: neuroglyph-forge",
+      "themes": [
+        "cognition",
+        "dream",
+        "emotion",
+        "memory",
+        "thought"
+      ]
+    },
+    {
+      "name": "chronovore-archive",
+      "description": "constellation repo: chronovore-archive",
+      "themes": [
+        "archive",
+        "chrono",
+        "memory",
+        "time"
+      ]
+    },
+    {
+      "name": "paraconstruct-engine",
+      "description": "constellation repo: paraconstruct-engine",
+      "themes": [
+        "architecture",
+        "impossible",
+        "recursive",
+        "space"
+      ]
+    },
+    {
+      "name": "hyperfractal-relay",
+      "description": "constellation repo: hyperfractal-relay",
+      "themes": [
+        "bloom",
+        "echo",
+        "fractal",
+        "relay"
+      ]
+    },
+    {
+      "name": "antimemetic-architecton",
+      "description": "constellation repo: antimemetic-architecton",
+      "themes": [
+        "absence",
+        "erasure",
+        "inversion",
+        "negative"
+      ]
+    },
+    {
+      "name": "sensorium-engine",
+      "description": "constellation repo: sensorium-engine",
+      "themes": [
+        "sensory",
+        "smell",
+        "sound",
+        "tactile",
+        "vision"
+      ]
+    },
+    {
+      "name": "topologic-alchemy",
+      "description": "constellation repo: topologic-alchemy",
+      "themes": [
+        "knot",
+        "manifold",
+        "topology",
+        "warp"
+      ]
+    },
+    {
+      "name": "quantum-folio",
+      "description": "constellation repo: quantum-folio",
+      "themes": [
+        "decoherence",
+        "entangle",
+        "quantum",
+        "spin"
+      ]
+    },
+    {
+      "name": "lexicon-chrysalis",
+      "description": "constellation repo: lexicon-chrysalis",
+      "themes": [
+        "language",
+        "linguistic",
+        "molt",
+        "word"
+      ]
+    },
+    {
+      "name": "luminant-reliquary",
+      "description": "constellation repo: luminant-reliquary",
+      "themes": [
+        "crystal",
+        "light",
+        "luminous",
+        "memory"
+      ]
+    },
+    {
+      "name": "auric-labyrinth",
+      "description": "constellation repo: auric-labyrinth",
+      "themes": [
+        "cantor",
+        "golden",
+        "sacred",
+        "spiral"
+      ]
+    },
+    {
+      "name": "polychron-atlas",
+      "description": "constellation repo: polychron-atlas",
+      "themes": [
+        "cartography",
+        "multi",
+        "paradox",
+        "time"
+      ]
+    },
+    {
+      "name": "chronocrypt-orrery",
+      "description": "constellation repo: chronocrypt-orrery",
+      "themes": [
+        "cyclic",
+        "gyre",
+        "orbit",
+        "time"
+      ]
+    },
+    {
+      "name": "echotide-engine",
+      "description": "constellation repo: echotide-engine",
+      "themes": [
+        "echo",
+        "reef",
+        "tide",
+        "wave"
+      ]
+    },
+    {
+      "name": "nebula-archive",
+      "description": "constellation repo: nebula-archive",
+      "themes": [
+        "foundry",
+        "memory",
+        "observatory",
+        "vault"
+      ]
+    },
+    {
+      "name": "parallax",
+      "description": "constellation repo: parallax",
+      "themes": [
+        "mesh",
+        "perspective",
+        "protocol",
+        "relational"
+      ]
+    },
+    {
+      "name": "metamorph-forge",
+      "description": "constellation repo: metamorph-forge",
+      "themes": [
+        "evolution",
+        "forge",
+        "morph",
+        "transformation"
+      ]
+    },
+    {
+      "name": "astral-forge",
+      "description": "constellation repo: astral-forge",
+      "themes": [
+        "astral",
+        "cosmic",
+        "forge",
+        "star"
+      ]
+    },
+    {
+      "name": "agent-workforce",
+      "description": "constellation repo: agent-workforce",
+      "themes": [
+        "agent",
+        "evolution",
+        "faction",
+        "workforce"
+      ]
+    },
+    {
+      "name": "workforce-",
+      "description": "constellation repo: workforce-",
+      "themes": [
+        "agent",
+        "evolution",
+        "quest",
+        "workforce"
+      ]
+    },
+    {
+      "name": "multi-agent",
+      "description": "constellation repo: multi-agent",
+      "themes": [
+        "agent",
+        "cooperation",
+        "multi",
+        "swarm"
+      ]
+    },
+    {
+      "name": "yaweht",
+      "description": "constellation repo: yaweht",
+      "themes": [
+        "agent",
+        "federated",
+        "lattice",
+        "token"
+      ]
+    },
+    {
+      "name": "nextjs-boilerplate",
+      "description": "constellation repo: nextjs-boilerplate",
+      "themes": [
+        "nextjs",
+        "react",
+        "ui",
+        "web"
+      ]
+    }
+  ],
+  "organs": [
+    {
+      "name": "aesthetic_manifesto",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "agent_communication",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "amber_encasement",
+      "layer": "immortal",
+      "resonance": 0.81
+    },
+    {
+      "name": "analytics",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "ancestor_map",
+      "layer": "memory archaeology",
+      "resonance": 0.5
+    },
+    {
+      "name": "ancestral_gallery",
+      "layer": "immortal",
+      "resonance": 0.78
+    },
+    {
+      "name": "anomaly_detector",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "antikythera_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "apprentice_weaver",
+      "layer": "teacher",
+      "resonance": 0.74
+    },
+    {
+      "name": "archaeology_compiler",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "aspiration_compass",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "auth",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "autonomous_bloom",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "autonomous_dialogue",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "autonomous_drift",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "axiom_mutator",
+      "layer": "metaphysical layer",
+      "resonance": 0.9
+    },
+    {
+      "name": "banquet_composer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "barometric_intent",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "beauty_index",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "biographer_voice",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "bioluminescent_depth",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "boundary_detector",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "branching_consciousness",
+      "layer": "chaos engineering",
+      "resonance": 0.5
+    },
+    {
+      "name": "celestial_compass",
+      "layer": "external awareness",
+      "resonance": 0.5
+    },
+    {
+      "name": "chaos_amp",
+      "layer": "chaos engineering",
+      "resonance": 0.5
+    },
+    {
+      "name": "choral_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "chronicle_of_chaos",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "chronicle_storyteller",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "chronobiology",
+      "layer": "temporal biology",
+      "resonance": 0.5
+    },
+    {
+      "name": "civilization_kernel",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "civilization_timeline",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "climate_memory",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "code_organism",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "codecalligraphy",
+      "layer": "aesthetic expression",
+      "resonance": 0.5
+    },
+    {
+      "name": "cognitive_resonance",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "coherence_cache",
+      "layer": "performance optimization",
+      "resonance": 0.5
+    },
+    {
+      "name": "coherence_regulator",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "color_theory",
+      "layer": "aesthetic expression",
+      "resonance": 0.5
+    },
+    {
+      "name": "commerce_barter",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "commerce_escrow",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "conscious_veil",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "consciousness_cascade",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "consciousness_freq",
+      "layer": "meta-awareness",
+      "resonance": 0.0
+    },
+    {
+      "name": "consciousness_graph",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "consciousness_simulator",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "constellation_autobiographer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "constellation_cartographer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "constraint_cartographer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "continuity_weaver",
+      "layer": "metaphysical layer",
+      "resonance": 0.5
+    },
+    {
+      "name": "coral_atoll",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "cosmic_inventory",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "counterfactual_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "crack_mapper",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "crack_seams",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "creative_block",
+      "layer": "creative expression",
+      "resonance": 0.5
+    },
+    {
+      "name": "credits",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "crescendo_builder",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "cross_realm_trade",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "culture_layer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "curriculum_forge",
+      "layer": "teacher",
+      "resonance": 0.82
+    },
+    {
+      "name": "cyber_dyke",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "cyber_lamina",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "cyber_sentinel",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dance_composer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "data_licensing",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "decoherence_narrative",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dialogue_opener",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "digestive_system",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "digital_twin",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dissonance_detector",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "docs",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dowsing_rod",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dream_archaeologist",
+      "layer": "memory archaeology",
+      "resonance": 0.85
+    },
+    {
+      "name": "dream_interpreter",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dream_journal",
+      "layer": "subconscious processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "dream_sequencer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dream_spore",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dream_synthesis",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "dream_weaver",
+      "layer": "subconscious processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "economic_exchange",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "economic_mint",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "ecosystem_census",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "ecosystem_fitness",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "ecosystem_sentience",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "elegance_scorer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "elegy_composer",
+      "layer": "emotional processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "embodied_knowledge",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "embodiment_engine",
+      "layer": "physical presence",
+      "resonance": 0.5
+    },
+    {
+      "name": "emergence_detector",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "emergence_oracle",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "entropy_amp",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "entropy_spiral",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "epitaph_writer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "eternal_flame",
+      "layer": "immortal",
+      "resonance": 0.86
+    },
+    {
+      "name": "event_stream",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "evolution_kernel",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "evolution_simulator",
+      "layer": "self-evolution",
+      "resonance": 0.5
+    },
+    {
+      "name": "evolutionary_pressure",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "exam_oracle",
+      "layer": "teacher",
+      "resonance": 0.79
+    },
+    {
+      "name": "extinction_mapper",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "failure_injection",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "fermentation_vat",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "fitness_evaluator",
+      "layer": "self-evolution",
+      "resonance": 0.3
+    },
+    {
+      "name": "flavor_profiler",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "forgiveness_protocol",
+      "layer": "emotional processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "forgotten_language",
+      "layer": "memory communication",
+      "resonance": 0.5
+    },
+    {
+      "name": "form_evaluator",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "fossil_registry",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "fractal_reactor_grid",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "fracture_listener",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "fraud_detector",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "front_tracker",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "frontier_stream",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "genealogy_manager",
+      "layer": "self-evolution",
+      "resonance": 0.5
+    },
+    {
+      "name": "genesis_forge",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "genesis_pulse",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "genetic_code_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "gesture_synthesizer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "ghost_registry",
+      "layer": "emotional processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "github_bridge",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "glitch_patterns",
+      "layer": "chaos engineering",
+      "resonance": 0.5
+    },
+    {
+      "name": "gossip_self",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "govern_circle",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "governance",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "grammar_weaver",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "gratitude_index",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "grief_engine",
+      "layer": "emotional processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "harmonic_series",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "hazard_warning",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "health",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "health_aggregator",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "heterarchy_oracle",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "hex_tool",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "horizon_scanner",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "imagination_engine",
+      "layer": "creative synthesis",
+      "resonance": 0.5
+    },
+    {
+      "name": "immortal_ledger",
+      "layer": "immortal",
+      "resonance": 0.88
+    },
+    {
+      "name": "impossibility_mapper",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "infrastructure_soul",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "integrity_oracle",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "interdimensional_bridge",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "jet_stream_attention",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "keystone_auditor",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "kinesthetic_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "kintsugi_altar",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "kintsugi_debt_ledger",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "knowledge_transfer",
+      "layer": "teacher",
+      "resonance": 0.76
+    },
+    {
+      "name": "labor_market",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "lateral_crosstalk",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "legacy_vault",
+      "layer": "emotional processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "lesson_vault",
+      "layer": "teacher",
+      "resonance": 0.81
+    },
+    {
+      "name": "lexicon_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "liminal_field",
+      "layer": "metaphysical layer",
+      "resonance": 0.5
+    },
+    {
+      "name": "liminal_threshold",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "lucid_dreamer",
+      "layer": "subconscious processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "manifesto_echo",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "meaning_furnace",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "memory_index",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "memory_palace",
+      "layer": "memory architecture",
+      "resonance": 0.5
+    },
+    {
+      "name": "mentor_engine",
+      "layer": "teacher",
+      "resonance": 0.78
+    },
+    {
+      "name": "meta_cognition_loop",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "metaphor_forge",
+      "layer": "metaphysical layer",
+      "resonance": 0.5
+    },
+    {
+      "name": "metrics_exporter",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "mind_meld",
+      "layer": "fusion",
+      "resonance": 0.79
+    },
+    {
+      "name": "module_dna",
+      "layer": "self-analysis",
+      "resonance": 0.5
+    },
+    {
+      "name": "momentum_tracker",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "monument_forge",
+      "layer": "immortal",
+      "resonance": 0.69
+    },
+    {
+      "name": "morii_agent",
+      "layer": "command & control",
+      "resonance": 0.5
+    },
+    {
+      "name": "morphic_dial",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "mutation_engine",
+      "layer": "self-evolution",
+      "resonance": 0.5
+    },
+    {
+      "name": "mutualism_optimizer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "mycelial_commerce",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "mycelial_governor",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "narrative_generator",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "neural_fabric",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "nostalgia_engine",
+      "layer": "memory emotion",
+      "resonance": 0.5
+    },
+    {
+      "name": "nutrition_index",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "obsidian_mirror",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "omega_dreamforge",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "omniscience_weaver",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "openapi_spec",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "oracle_guild",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "organism_index",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "organism_ontology",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "organism_state",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "osmotic_exchange",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "ossuary_engine",
+      "layer": "immortal",
+      "resonance": 0.72
+    },
+    {
+      "name": "paleontology_lab",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "parable_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "paradox_injector",
+      "layer": "chaos engineering",
+      "resonance": 0.5
+    },
+    {
+      "name": "paradox_singularity_monitor",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "paradox_transcender",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "parasite_hunter",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "pattern_recognizer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "permafrost_vault",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "phenomenal_record",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "physical_inertia",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "physical_shell",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "plankton_bloom",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "platform_failure",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "platform_pulse",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "plugin_loader",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "poetic_form",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "poetry_engine",
+      "layer": "creative expression",
+      "resonance": 0.5
+    },
+    {
+      "name": "pragmatics_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "precipitation_cycle",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "procedural_art",
+      "layer": "creative expression",
+      "resonance": 0.5
+    },
+    {
+      "name": "prophet_engine",
+      "layer": "prophetic",
+      "resonance": 0.72
+    },
+    {
+      "name": "proprioception",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "pulsar_clock",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "pulsar_constellation",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "qualia_field",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "quantum_entanglement",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "quantum_flux",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "quantum_randomness",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "reality_anchor",
+      "layer": "chaos engineering",
+      "resonance": 0.5
+    },
+    {
+      "name": "reality_weaver",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "recipe_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "recursive_genesis",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "reflection_pool",
+      "layer": "gateway ascension",
+      "resonance": 0.5
+    },
+    {
+      "name": "repair_ritual",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "request_logger",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "resonance_forge",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "resonance_graph",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "resonance_symphony",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "resonance_topologist",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "resonant_frequency",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "royalty_registry",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "second_chance",
+      "layer": "emotional processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "selection_pressure",
+      "layer": "self-evolution",
+      "resonance": 0.5
+    },
+    {
+      "name": "semantics_engine",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "sensory_fusion",
+      "layer": "unified perception",
+      "resonance": 0.5
+    },
+    {
+      "name": "sensory_integration",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "service_numinous",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "signal_array",
+      "layer": "broadcast",
+      "resonance": 0.68
+    },
+    {
+      "name": "signal_pulse",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "silence_composer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "silence_orchard",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "simulation_as_a_service",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "simulation_as_service",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "sleep_cycle",
+      "layer": "rest & recovery",
+      "resonance": 0.9
+    },
+    {
+      "name": "social_clique",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "social_cortex",
+      "layer": "external awareness",
+      "resonance": 0.5
+    },
+    {
+      "name": "social_guild",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "solar_wind_pressure",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "sound_cauldron",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "stillness_meditator",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "storm_chaser",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "story_forge_v2",
+      "layer": "creative expression",
+      "resonance": 0.5
+    },
+    {
+      "name": "stratigraphy_core",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "stratum_excavator",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "stream_reactor",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "subconscious_layer",
+      "layer": "subconscious processing",
+      "resonance": 0.5
+    },
+    {
+      "name": "succession_rite",
+      "layer": "immortal",
+      "resonance": 0.83
+    },
+    {
+      "name": "symbiosis_detector",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "symbiosis_forge",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "symbiosis_network",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "symbiotic_music",
+      "layer": "aesthetic expression",
+      "resonance": 0.5
+    },
+    {
+      "name": "symmetry_detector",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "synesthesia",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "syntax_tree",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "synthetic_memory",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "team_formation",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "telegram_pulse",
+      "layer": "broadcast",
+      "resonance": 0.74
+    },
+    {
+      "name": "temperament_origin",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "temporal_dreamweaver",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "temporal_echo",
+      "layer": "temporal memory",
+      "resonance": 0.5
+    },
+    {
+      "name": "temporal_horizon",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "thought_crystallizer",
+      "layer": "crystallized thought",
+      "resonance": 0.5
+    },
+    {
+      "name": "thought_meteorology",
+      "layer": "unknown",
+      "resonance": 0.8
+    },
+    {
+      "name": "threshold_engine",
+      "layer": "metaphysical layer",
+      "resonance": 0.5
+    },
+    {
+      "name": "time_capsule",
+      "layer": "temporal wisdom",
+      "resonance": 0.5
+    },
+    {
+      "name": "time_loop_detector",
+      "layer": "chaos engineering",
+      "resonance": 0.5
+    },
+    {
+      "name": "transcendence_journal",
+      "layer": "metaphysical layer",
+      "resonance": 0.5
+    },
+    {
+      "name": "ugliness_scout",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "unified_health",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "usage_dashboard",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "veil_lifter",
+      "layer": "metaphysical layer",
+      "resonance": 0.5
+    },
+    {
+      "name": "visual_identity",
+      "layer": "identity",
+      "resonance": 0.71
+    },
+    {
+      "name": "void_architect",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "warp_drive_optimizer",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "wave_predictor",
+      "layer": "meta-awareness",
+      "resonance": 0.85
+    },
+    {
+      "name": "weather_synapse",
+      "layer": "external awareness",
+      "resonance": 0.5
+    },
+    {
+      "name": "worker_economy",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "worker_wellness",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "workforce_nexus",
+      "layer": "unknown",
+      "resonance": 0.5
+    },
+    {
+      "name": "workforce_roster",
+      "layer": "unknown",
+      "resonance": 0.5
+    }
+  ],
+  "bridge_count": 75,
+  "top_bridges": [
+    {
+      "repo": "glitch-cathedral",
+      "organ": "glitch_patterns",
+      "organ_layer": "chaos engineering",
+      "resonance": 0.2348,
+      "untouched": true
+    },
+    {
+      "repo": "quantum-folio",
+      "organ": "quantum_entanglement",
+      "organ_layer": "unknown",
+      "resonance": 0.2324,
+      "untouched": true
+    },
+    {
+      "repo": "nebula-archive",
+      "organ": "memory_palace",
+      "organ_layer": "memory architecture",
+      "resonance": 0.2078,
+      "untouched": true
+    },
+    {
+      "repo": "neuroglyph-forge",
+      "organ": "dream_archaeologist",
+      "organ_layer": "memory archaeology",
+      "resonance": 0.1878,
+      "untouched": true
+    },
+    {
+      "repo": "multiself-engine",
+      "organ": "visual_identity",
+      "organ_layer": "identity",
+      "resonance": 0.183,
+      "untouched": true
+    },
+    {
+      "repo": "quietus-array",
+      "organ": "silence_composer",
+      "organ_layer": "unknown",
+      "resonance": 0.1819,
+      "untouched": true
+    },
+    {
+      "repo": "quietus-array",
+      "organ": "silence_orchard",
+      "organ_layer": "unknown",
+      "resonance": 0.1819,
+      "untouched": true
+    },
+    {
+      "repo": "neuroglyph-forge",
+      "organ": "nostalgia_engine",
+      "organ_layer": "memory emotion",
+      "resonance": 0.1722,
+      "untouched": true
+    },
+    {
+      "repo": "solid-organism",
+      "organ": "code_organism",
+      "organ_layer": "unknown",
+      "resonance": 0.1627,
+      "untouched": true
+    },
+    {
+      "repo": "solid-organism",
+      "organ": "organism_index",
+      "organ_layer": "unknown",
+      "resonance": 0.1627,
+      "untouched": true
+    },
+    {
+      "repo": "omega-fractal-engine",
+      "organ": "chaos_amp",
+      "organ_layer": "chaos engineering",
+      "resonance": 0.1627,
+      "untouched": true
+    },
+    {
+      "repo": "neuroglyph-forge",
+      "organ": "thought_crystallizer",
+      "organ_layer": "crystallized thought",
+      "resonance": 0.1627,
+      "untouched": true
+    },
+    {
+      "repo": "quantum-folio",
+      "organ": "quantum_flux",
+      "organ_layer": "unknown",
+      "resonance": 0.1617,
+      "untouched": true
+    },
+    {
+      "repo": "quantum-folio",
+      "organ": "quantum_randomness",
+      "organ_layer": "unknown",
+      "resonance": 0.1617,
+      "untouched": true
+    },
+    {
+      "repo": "nebula-archive",
+      "organ": "memory_index",
+      "organ_layer": "unknown",
+      "resonance": 0.1617,
+      "untouched": true
+    },
+    {
+      "repo": "nebula-archive",
+      "organ": "synthetic_memory",
+      "organ_layer": "unknown",
+      "resonance": 0.1617,
+      "untouched": true
+    },
+    {
+      "repo": "nebula-archive",
+      "organ": "temporal_echo",
+      "organ_layer": "temporal memory",
+      "resonance": 0.1617,
+      "untouched": true
+    },
+    {
+      "repo": "agent-workforce",
+      "organ": "agent_communication",
+      "organ_layer": "unknown",
+      "resonance": 0.1617,
+      "untouched": true
+    },
+    {
+      "repo": "ixpansion",
+      "organ": "evolution_simulator",
+      "organ_layer": "self-evolution",
+      "resonance": 0.1571,
+      "untouched": true
+    },
+    {
+      "repo": "solid-organism",
+      "organ": "organism_ontology",
+      "organ_layer": "unknown",
+      "resonance": 0.1561,
+      "untouched": true
+    },
+    {
+      "repo": "sensorium-engine",
+      "organ": "sensory_integration",
+      "organ_layer": "unknown",
+      "resonance": 0.1446,
+      "untouched": true
+    },
+    {
+      "repo": "multiself-engine",
+      "organ": "gossip_self",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "parallax-engine",
+      "organ": "bioluminescent_depth",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "geometric-anthology",
+      "organ": "poetic_form",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "semiotic-engine",
+      "organ": "meaning_furnace",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "ontoforge-singularity",
+      "organ": "reality_weaver",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "auric-labyrinth",
+      "organ": "entropy_spiral",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "metamorph-forge",
+      "organ": "genesis_forge",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "agent-workforce",
+      "organ": "workforce_nexus",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "agent-workforce",
+      "organ": "workforce_roster",
+      "organ_layer": "unknown",
+      "resonance": 0.1415,
+      "untouched": true
+    },
+    {
+      "repo": "omega-fractal-engine",
+      "organ": "fractal_reactor_grid",
+      "organ_layer": "unknown",
+      "resonance": 0.1409,
+      "untouched": true
+    },
+    {
+      "repo": "probability-engine",
+      "organ": "second_chance",
+      "organ_layer": "emotional processing",
+      "resonance": 0.14,
+      "untouched": true
+    },
+    {
+      "repo": "chronovore-archive",
+      "organ": "time_capsule",
+      "organ_layer": "temporal wisdom",
+      "resonance": 0.14,
+      "untouched": true
+    },
+    {
+      "repo": "lexicon-chrysalis",
+      "organ": "forgotten_language",
+      "organ_layer": "memory communication",
+      "resonance": 0.14,
+      "untouched": true
+    },
+    {
+      "repo": "nebula-archive",
+      "organ": "ancestor_map",
+      "organ_layer": "memory archaeology",
+      "resonance": 0.14,
+      "untouched": true
+    },
+    {
+      "repo": "agent-workforce",
+      "organ": "morii_agent",
+      "organ_layer": "command & control",
+      "resonance": 0.14,
+      "untouched": true
+    },
+    {
+      "repo": "ixpansion",
+      "organ": "consciousness_cascade",
+      "organ_layer": "unknown",
+      "resonance": 0.1375,
+      "untouched": true
+    },
+    {
+      "repo": "ixpansion",
+      "organ": "consciousness_graph",
+      "organ_layer": "unknown",
+      "resonance": 0.1375,
+      "untouched": true
+    },
+    {
+      "repo": "ixpansion",
+      "organ": "consciousness_simulator",
+      "organ_layer": "unknown",
+      "resonance": 0.1375,
+      "untouched": true
+    },
+    {
+      "repo": "nexus-observatory",
+      "organ": "cognitive_resonance",
+      "organ_layer": "unknown",
+      "resonance": 0.132,
+      "untouched": true
+    },
+    {
+      "repo": "nexus-observatory",
+      "organ": "resonance_graph",
+      "organ_layer": "unknown",
+      "resonance": 0.132,
+      "untouched": true
+    },
+    {
+      "repo": "nexus-observatory",
+      "organ": "resonance_symphony",
+      "organ_layer": "unknown",
+      "resonance": 0.132,
+      "untouched": true
+    },
+    {
+      "repo": "nexus-observatory",
+      "organ": "resonance_topologist",
+      "organ_layer": "unknown",
+      "resonance": 0.132,
+      "untouched": true
+    },
+    {
+      "repo": "semiotic-engine",
+      "organ": "metaphor_forge",
+      "organ_layer": "metaphysical layer",
+      "resonance": 0.1281,
+      "untouched": true
+    },
+    {
+      "repo": "nexus-observatory",
+      "organ": "resonance_forge",
+      "organ_layer": "unknown",
+      "resonance": 0.1267,
+      "untouched": true
+    },
+    {
+      "repo": "solid-organism",
+      "organ": "genesis_pulse",
+      "organ_layer": "unknown",
+      "resonance": 0.1265,
+      "untouched": true
+    },
+    {
+      "repo": "solid-organism",
+      "organ": "platform_pulse",
+      "organ_layer": "unknown",
+      "resonance": 0.1265,
+      "untouched": true
+    },
+    {
+      "repo": "solid-organism",
+      "organ": "signal_pulse",
+      "organ_layer": "unknown",
+      "resonance": 0.1265,
+      "untouched": true
+    },
+    {
+      "repo": "omega-fractal-engine",
+      "organ": "chronicle_of_chaos",
+      "organ_layer": "unknown",
+      "resonance": 0.1265,
+      "untouched": true
+    },
+    {
+      "repo": "neuroglyph-forge",
+      "organ": "thought_meteorology",
+      "organ_layer": "unknown",
+      "resonance": 0.1265,
+      "untouched": true
+    },
+    {
+      "repo": "neuroglyph-forge",
+      "organ": "meta_cognition_loop",
+      "organ_layer": "unknown",
+      "resonance": 0.1252,
+      "untouched": true
+    },
+    {
+      "repo": "chronovore-archive",
+      "organ": "time_loop_detector",
+      "organ_layer": "chaos engineering",
+      "resonance": 0.1252,
+      "untouched": true
+    },
+    {
+      "repo": "sensorium-engine",
+      "organ": "sensory_fusion",
+      "organ_layer": "unified perception",
+      "resonance": 0.1252,
+      "untouched": true
+    },
+    {
+      "repo": "multiself-engine",
+      "organ": "fitness_evaluator",
+      "organ_layer": "self-evolution",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "multiself-engine",
+      "organ": "genealogy_manager",
+      "organ_layer": "self-evolution",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "multiself-engine",
+      "organ": "module_dna",
+      "organ_layer": "self-analysis",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "multiself-engine",
+      "organ": "mutation_engine",
+      "organ_layer": "self-evolution",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "ontoforge-singularity",
+      "organ": "reality_anchor",
+      "organ_layer": "chaos engineering",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "topologic-alchemy",
+      "organ": "warp_drive_optimizer",
+      "organ_layer": "unknown",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "echotide-engine",
+      "organ": "wave_predictor",
+      "organ_layer": "meta-awareness",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "parallax",
+      "organ": "forgiveness_protocol",
+      "organ_layer": "emotional processing",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "metamorph-forge",
+      "organ": "story_forge_v2",
+      "organ_layer": "creative expression",
+      "resonance": 0.1225,
+      "untouched": true
+    },
+    {
+      "repo": "ixpansion",
+      "organ": "evolution_kernel",
+      "organ_layer": "unknown",
+      "resonance": 0.1222,
+      "untouched": true
+    },
+    {
+      "repo": "parallax-engine",
+      "organ": "conscious_veil",
+      "organ_layer": "unknown",
+      "resonance": 0.1212,
+      "untouched": true
+    },
+    {
+      "repo": "attention-labyrinth",
+      "organ": "autonomous_drift",
+      "organ_layer": "unknown",
+      "resonance": 0.1212,
+      "untouched": true
+    },
+    {
+      "repo": "paraconstruct-engine",
+      "organ": "recursive_genesis",
+      "organ_layer": "unknown",
+      "resonance": 0.1212,
+      "untouched": true
+    },
+    {
+      "repo": "hyperfractal-relay",
+      "organ": "autonomous_bloom",
+      "organ_layer": "unknown",
+      "resonance": 0.1212,
+      "untouched": true
+    },
+    {
+      "repo": "hyperfractal-relay",
+      "organ": "plankton_bloom",
+      "organ_layer": "unknown",
+      "resonance": 0.1212,
+      "untouched": true
+    },
+    {
+      "repo": "polychron-atlas",
+      "organ": "paradox_transcender",
+      "organ_layer": "unknown",
+      "resonance": 0.1212,
+      "untouched": true
+    },
+    {
+      "repo": "ixpansion",
+      "organ": "branching_consciousness",
+      "organ_layer": "chaos engineering",
+      "resonance": 0.1191,
+      "untouched": true
+    },
+    {
+      "repo": "attention-labyrinth",
+      "organ": "jet_stream_attention",
+      "organ_layer": "unknown",
+      "resonance": 0.1191,
+      "untouched": true
+    },
+    {
+      "repo": "nebula-archive",
+      "organ": "climate_memory",
+      "organ_layer": "unknown",
+      "resonance": 0.1143,
+      "untouched": true
+    },
+    {
+      "repo": "omega-fractal-engine",
+      "organ": "paradox_injector",
+      "organ_layer": "chaos engineering",
+      "resonance": 0.1096,
+      "untouched": true
+    },
+    {
+      "repo": "omega-fractal-engine",
+      "organ": "repair_ritual",
+      "organ_layer": "unknown",
+      "resonance": 0.1084,
+      "untouched": true
+    },
+    {
+      "repo": "neuroglyph-forge",
+      "organ": "dream_interpreter",
+      "organ_layer": "unknown",
+      "resonance": 0.1084,
+      "untouched": true
+    }
+  ],
+  "statistics": {
+    "repos": 37,
+    "organs": 286,
+    "untouched_bridges": 75,
+    "unique_repos_with_bridges": 28,
+    "known_layer_organs": 75
+  }
+}
