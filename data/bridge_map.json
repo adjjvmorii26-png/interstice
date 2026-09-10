@@ -500,6 +500,21 @@
       "resonance": 0.5
     },
     {
+      "name": "bridge_dreamer",
+      "layer": "bridge",
+      "resonance": 0.23
+    },
+    {
+      "name": "bridge_enactor",
+      "layer": "bridge-enactment",
+      "resonance": 0.88
+    },
+    {
+      "name": "bridge_ledger",
+      "layer": "bridge-ledger",
+      "resonance": 0.81
+    },
+    {
       "name": "celestial_compass",
       "layer": "external awareness",
       "resonance": 0.5
@@ -1085,6 +1100,11 @@
       "resonance": 0.5
     },
     {
+      "name": "interstice_bridge",
+      "layer": "bridge",
+      "resonance": 0.23
+    },
+    {
       "name": "jet_stream_attention",
       "layer": "unknown",
       "resonance": 0.5
@@ -1108,6 +1128,11 @@
       "name": "kintsugi_debt_ledger",
       "layer": "unknown",
       "resonance": 0.5
+    },
+    {
+      "name": "knot_weaver",
+      "layer": "bridge",
+      "resonance": 0.76
     },
     {
       "name": "knowledge_transfer",
@@ -2345,9 +2370,9 @@
   ],
   "statistics": {
     "repos": 37,
-    "organs": 286,
+    "organs": 291,
     "untouched_bridges": 75,
     "unique_repos_with_bridges": 28,
-    "known_layer_organs": 75
+    "known_layer_organs": 80
   }
 }
